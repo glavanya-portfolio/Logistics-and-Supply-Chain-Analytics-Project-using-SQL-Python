@@ -1,0 +1,21 @@
+vehicle_id,vehicle_type,capacity_kg,fuel_type,purchase_year
+VEH001,Container Truck,10000,CNG,2018
+VEH002,Container Truck,10000,Petrol,2019
+VEH003,Van,500,CNG,2023
+VEH004,Container Truck,10000,CNG,2023
+VEH005,Truck,5000,Petrol,2023
+VEH006,Container Truck,10000,CNG,2018
+VEH007,Container Truck,10000,Electric,2022
+VEH008,Mini Truck,1500,Petrol,2020
+VEH009,Van,500,CNG,2020
+VEH010,Container Truck,10000,Petrol,2022
+VEH011,Truck,5000,Electric,2019
+VEH012,Container Truck,10000,Diesel,2023
+VEH013,Van,500,Diesel,2022
+VEH014,Mini Truck,1500,Petrol,2021
+VEH015,Van,500,Petrol,2021
+VEH016,Container Truck,10000,Diesel,2018
+VEH017,Container Truck,10000,Petrol,2019
+VEH018,Mini Truck,1500,Petrol,2020
+VEH019,Van,500,Diesel,2020
+VEH020,Van,500,Electric,2018

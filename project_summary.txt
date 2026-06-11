@@ -1,0 +1,35 @@
+Project Title:
+Logistics & Supply Chain Analytics using SQL and Python
+
+Tools Used:
+MySQL
+MySQL Workbench
+Python
+Pandas
+NumPy
+GitHub
+
+Dataset:
+Customers - 500
+Orders - 5000
+Warehouses - 20
+Vehicles - 100
+Drivers - 100
+Routes - 100
+Shipments - 5000
+
+Key SQL Concepts:
+Data Validation
+Joins
+CTEs
+Window Functions
+Views
+Stored Procedures
+Indexes
+
+Business Analysis:
+Customer Spending Analysis
+Warehouse Performance Analysis
+Route Performance Analysis
+Shipment Status Analysis
+Revenue Analysis

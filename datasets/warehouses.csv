@@ -1,0 +1,11 @@
+warehouse_id,warehouse_name,city,state,capacity
+WH001,Hyderabad Hub,Hyderabad,Telangana,12000
+WH002,Bangalore Hub,Bangalore,Karnataka,15000
+WH003,Chennai Hub,Chennai,Tamil Nadu,11000
+WH004,Mumbai Hub,Mumbai,Maharashtra,18000
+WH005,Delhi Hub,Delhi,Delhi,20000
+WH006,Pune Hub,Pune,Maharashtra,10000
+WH007,Kolkata Hub,Kolkata,West Bengal,13000
+WH008,Ahmedabad Hub,Ahmedabad,Gujarat,9000
+WH009,Jaipur Hub,Jaipur,Rajasthan,8000
+WH010,Visakhapatnam Hub,Visakhapatnam,Andhra Pradesh,9500
